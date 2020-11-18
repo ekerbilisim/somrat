@@ -57,7 +57,7 @@ skill:
   enable: true
   title: BECERILEMIZ
   skill_list:
-  - name: Web Development
+  - name: Web tasarım
     percentage: 98%
   - name: Graphic Design
     percentage: 85%
