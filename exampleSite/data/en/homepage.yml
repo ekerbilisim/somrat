@@ -2,6 +2,7 @@
 hero:
   title: Eker Bilişim
   occupations:
+  - Teknik Destek
   - İşletim Sistem Yönetimi
   - Çözüm Ortaklığı
   - Web Development
@@ -13,7 +14,7 @@ hero:
   - images/slider/slider-3.jpg
   button:
     enable: true
-    label: HIRE ME
+    label: Destek Alınız!
     link: "#contact"
 fullscreen_nav:
   enable: true
