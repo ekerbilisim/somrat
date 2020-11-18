@@ -79,7 +79,7 @@ service:
     image: images/icons/software-development.png
   - name: Dijital Pazarlama
     image: images/icons/marketing.png
-  - name: Mobile Uygulama Geliştirme
+  - name: Mobil Uygulama Geliştirme
     image: images/icons/mobile-app.png
 call_to_action:
   enable: true
