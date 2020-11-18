@@ -71,7 +71,7 @@ service:
   service_list:
   - name: Web Tasarım
     image: images/icons/web-development.png
-  - name: Graphic Design
+  - name: Grafik Design
     image: images/icons/graphic-design.png
   - name: Database Management
     image: images/icons/dbms.png
