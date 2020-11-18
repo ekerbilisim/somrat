@@ -73,13 +73,13 @@ service:
     image: images/icons/web-development.png
   - name: Grafik Design
     image: images/icons/graphic-design.png
-  - name: Database Management
+  - name: Veritaban Yönetimi
     image: images/icons/dbms.png
-  - name: Software Development
+  - name: Yazılım Geliştirme
     image: images/icons/software-development.png
-  - name: Digital Marketing
+  - name: Dijital Pazarlama
     image: images/icons/marketing.png
-  - name: Mobile App Development
+  - name: Mobile Uygulama Geliştirme
     image: images/icons/mobile-app.png
 call_to_action:
   enable: true
