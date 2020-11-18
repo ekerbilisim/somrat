@@ -84,10 +84,10 @@ service:
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
-  title: NEED A SERVICE?
+  title: DESTEK ALINIZ
   button:
     enable: true
-    label: SAY HELLO!
+    label: SAY MERHABA!
     link: "#contact"
 portfolio:
   enable: true
