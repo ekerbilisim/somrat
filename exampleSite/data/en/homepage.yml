@@ -2,9 +2,11 @@
 hero:
   title: Eker Bilişim
   occupations:
-  - Web Developer
-  - Graphic Designer
-  - Database Manager
+  - İşletim Sistem Yönetimi
+  - Çözüm Ortaklığı
+  - Web Development
+  - Grafic Tasarım
+  - Veritaban Yönetimi
   slider_image:
   - images/slider/slider-1.jpg
   - images/slider/slider-2.jpg
