@@ -67,9 +67,9 @@ skill:
     percentage: 70%
 service:
   enable: true
-  title: SERVICES
+  title: HIZMETLERIMIZ
   service_list:
-  - name: Web Development
+  - name: Web Tasarım
     image: images/icons/web-development.png
   - name: Graphic Design
     image: images/icons/graphic-design.png
