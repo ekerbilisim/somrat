@@ -1,50 +1,35 @@
+---
 - id: read_more
-  translation: Read More
-  
+  translation: Devamını oku
 - id: address
-  translation: Our Address
-
+  translation: Adresimiz
 - id: phone
-  translation: Phone Number
-
+  translation: Telefon Numarası
 - id: email
-  translation: Message Us
-
+  translation: Bize Yazın
 - id: contact_form
-  translation: Contact Form
-
+  translation: Iletişim Formu
 - id: send
-  translation: send message
-
+  translation: Mesajı Gönder
 - id: follow
-  translation: FOLLOW US ON
-
+  translation: BIZI TAKIP EDIN
 - id: services
-  translation: Services
-
+  translation: Hizmetlerimiz
 - id: contact_info
   translation: Contact Info
-
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
-
+  translation: Bültene Abone Olun
 - id: subscribe
   translation: Subscribe
-
 - id: connect_with_us
   translation: Connect With Us
-
 - id: call_now
-  translation: Call Now
-
+  translation: Şimdi Ara
 - id: search_placeholder
-  translation: Type & Hit Enter...
-
+  translation: Yazınız & Enter tuşuna basınız
 - id: latest_article
-  translation: Latest Article
-
+  translation: Son Paylaşım
 - id: category
-  translation: Category
-
+  translation: Kategori
 - id: tags
   translation: Tags
