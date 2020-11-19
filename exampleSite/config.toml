@@ -17,29 +17,29 @@ languageCode = "en-us"
 languageName = "EN"
 weight = 2
 [[menu.main]]
-URL = "#contact"
-name = "Iletişim"
-weight = 6
+URL = "#home"
+name = "Home"
+weight = 1
 [[menu.main]]
-URL = "#testimonial"
-name = "Testimonial"
-weight = 5
-[[menu.main]]
-URL = "#portfolio"
-name = "Portfolio"
-weight = 4
+URL = "#about"
+name = "About me"
+weight = 2
 [[menu.main]]
 URL = "#service"
 name = "Service"
 weight = 3
 [[menu.main]]
-URL = "#about"
-name = "Hakkımızda"
-weight = 2
+URL = "#portfolio"
+name = "Portfolio"
+weight = 4
 [[menu.main]]
-URL = "#home"
-name = "Anasayfa"
-weight = 1
+URL = "#testimonial"
+name = "Testimonial"
+weight = 5
+[[menu.main]]
+URL = "#contact"
+name = "Contact"
+weight = 6
 [params]
 author = "somrat"
 contact_form_action = ""
@@ -90,7 +90,7 @@ icon = "fa-twitter"
 link = "https://twitter.com/somrat_37"
 [[params.social]]
 icon = "fa-instagram"
-link = "https://www.instagram.com/somrat_sorkar/"
+link = "https://www.instagram.com/ekerbilisim/"
 [[params.social]]
 icon = "fa-github"
 link = "https://github.com/Somrat37"
