@@ -5,7 +5,7 @@ hero:
   - Teknik Destek
   - İşletim Sistem Yönetimi
   - Çözüm Ortaklığı
-  - Web Development
+  - 'Web Yazılım / Tasarım '
   - Grafik Tasarım
   - Veritaban Yönetimi
   slider_image:
@@ -14,7 +14,7 @@ hero:
   - images/slider/slider-3.jpg
   button:
     enable: true
-    label: Destek Alın!
+    label: Bize Ulaş!
     link: "#contact"
 fullscreen_nav:
   enable: true
