@@ -14,8 +14,8 @@ hero:
   - images/slider/slider-3.jpg
   button:
     enable: true
-    label: Bize Ulaş!
-    link: "#contact"
+    label: HEMEN BAŞLAYALIM!
+    link: "#about"
 fullscreen_nav:
   enable: true
   bg_image: images/backgrounds/full-nav-bg.jpg
