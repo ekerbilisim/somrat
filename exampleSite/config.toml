@@ -45,7 +45,7 @@ author = "somrat"
 contact_form_action = ""
 description = "Eker Bilişim - Sizin en iyi çözüm ortağınız...."
 google_analytics_id = ""
-logo_dark = "images/logo-dark.png"
+logo_dark = "images/img-20200816-wa0000.jpg"
 logo_light = "images/logo.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
