@@ -71,7 +71,7 @@ skill:
     percentage: 85%
   - name: Veritaban Yönetimi
     percentage: 90%
-  - name: Wordpress
+  - name: Uygulama geliştirme
     percentage: 70%
 service:
   enable: true
