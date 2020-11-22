@@ -14,7 +14,7 @@ hero:
   - images/slider/slider-3.jpg
   button:
     enable: true
-    label: Destek Alınız!
+    label: Destek Alın!
     link: "#contact"
 fullscreen_nav:
   enable: true
