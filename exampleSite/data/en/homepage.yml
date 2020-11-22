@@ -98,7 +98,7 @@ call_to_action:
     label: BIZE ULAŞ!
     link: "#contact"
 portfolio:
-  enable: true
+  enable: false
   title: PORTFOLIO
   portfolio_list:
   - name: Project <br> Title
