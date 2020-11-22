@@ -25,11 +25,12 @@ about:
   enable: true
   image: images/backgrounds/portrait.jpg
   title: HAKKIMIZDA
-  content: "It's Somrat, Professional Web Developer. I love to write code, it's my
-    passion. I am here to help you, i am here to design your web page. i can help
-    you to describe yourself in the best way.<br>No matter how difficult your web
-    page is, i will find an easy way and complete your work anyway. Stay connect with
-    me............\U0001F60A"
+  content: "Eker Bilişim olarak öncelikle düşündüğümüz şey birlikte yola çıktığımız
+    dostlarımız yani siz!\nEn hızlı ve en uygun hizmetleri size sunabilmek için günden
+    güne büyüyen bir ekip ile yolumuza tam gaz devam ediyoruz!\nUzun zamandır sektörde
+    yer almış bir şirket olan EkerBilişim bu gün yazılımı herkes ile buluşturmayı
+    amaçlayan dev bir şirket!\nBu düşüncemizden ötürü ise bütün fiyatlandırmamız tamamen
+    değiştirdik ve ulaşılabilir duruma getirdik.\U0001F60A"
   button:
     enable: true
     label: TÜM HIZMETLERIMIZ
