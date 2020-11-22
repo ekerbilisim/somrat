@@ -54,10 +54,13 @@ experience:
       yapıyoruz, en güzeli de: tasarımın hakları tamamı ile size ait. Ister 8K çözürnük,
       ister hareketli tasarım.'
   - name: Veritaban Yönetimi
-    company: Polytechnic
-    duration: 2014-2018
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
+    company: Google Cloud / AWS / Azure
+    duration: 2010-2020
+    content: 'Kullandığımız veriler en hassas noktadır, bu yüzden Google''nin altyapısını
+      kullanarak geliştirdiğimiz kendi yazılım dilimiz ile Veritaban oluşturuyoruz,
+      Şifreliyoruz ve yerel kopyalar ile sizin için ayırıyoruz. RSA256 Şifreleme yöntemi
+      ile Veritabanlarını Bulut hizmetlerine paylaşarak bir kopya bulunduruyoruz,
+      en güzeli: çalınması imkansız ve size ücret yansımıyor!'
 skill:
   enable: true
   title: BECERILEMIZ
