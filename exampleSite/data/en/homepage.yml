@@ -171,9 +171,9 @@ testimonial:
     content: Windows 98 ve Ubuntu ile ufak yaşlarda bilgisayarı sadece klavye kullanarak
       kullanmaya mecbur kalarak kendi çözümlerimi buldum ve kendimi geliştirdim, CEH9
       Sertifikam ile Siber Güvenlik eğitimi sundum, artık yapay zeka çözümleri geliştiriyorum.
-  - name: Peter Parker
+  - name: Musa Batur Gümüş
     image: images/clients/client2.jpg
-    designation: CEO, RANDOM COMPANY
+    designation: 'COO, Eker Bilişim '
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
       omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error
       dignissimos in iusto.
