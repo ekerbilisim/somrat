@@ -39,11 +39,13 @@ experience:
   enable: true
   title: TECRÜBELERIMIZ
   experience_list:
-  - name: Web Tasarım
-    company: Fiverr.com
-    duration: 2016-2018
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
-      like Personal, Business, Blog, E-commerce etc.
+  - name: Web Geliştirme / Tasarım
+    company: W3.org
+    duration: 2000-2020
+    content: HTML5, CSS ve Javascript dilleri kullanarak, en büyük hizmet alanımız.
+      Ayrı bir yazılım dillerine ihtiyaç duymadan Web Applications sunuyoruz. Rakiplerinize
+      göre her zaman bir adım önde oluyorsunuz. Ayrıca HTML5 kodları bozulma riski
+      olmadığı için, aynı kod ileri zamanda daha da gelişiyor.
   - name: Grafic Design
     company: Fiverr.com
     duration: 2015-2018
