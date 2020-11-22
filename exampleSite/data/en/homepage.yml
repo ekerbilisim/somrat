@@ -32,7 +32,7 @@ about:
     me............\U0001F60A"
   button:
     enable: true
-    label: DOWNLOAD MY CV
+    label: ÜRÜNLERIMIZ
     link: "#"
 experience:
   enable: true
