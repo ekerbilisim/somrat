@@ -165,12 +165,12 @@ testimonial:
   enable: true
   title: TESTIMONIALS
   testimonial_slider:
-  - name: Micheal Clark
+  - name: Uğur Eker
     image: images/clients/client1.jpg
-    designation: CEO, RANDOM COMPANY
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-      omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error
-      dignissimos in iusto.
+    designation: 'CEO @ Eker Bilişim '
+    content: Windows 98 ve Ubuntu ile ufak yaşlarda bilgisayarı sadece klavye kullanarak
+      kullanmaya mecbur kalarak kendi çözümlerimi buldum ve kendimi geliştirdim, CEH9
+      Sertifikam ile Siber Güvenlik eğitimi sundum, artık yapay zeka çözümleri geliştiriyorum.
   - name: Peter Parker
     image: images/clients/client2.jpg
     designation: CEO, RANDOM COMPANY
