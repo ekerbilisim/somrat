@@ -26,7 +26,7 @@ name = "Hakkımızda"
 weight = 2
 [[menu.main]]
 URL = "#service"
-name = "Service"
+name = "Hizmetlerimiz"
 weight = 3
 [[menu.main]]
 URL = "#portfolio"
