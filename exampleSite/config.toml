@@ -22,7 +22,7 @@ name = "Home"
 weight = 1
 [[menu.main]]
 URL = "#about"
-name = "About me"
+name = "Hakkımızda"
 weight = 2
 [[menu.main]]
 URL = "#service"
