@@ -38,7 +38,7 @@ name = "Testimonial"
 weight = 5
 [[menu.main]]
 URL = "#contact"
-name = "Contact"
+name = "İletişim"
 weight = 6
 [params]
 author = "somrat"
