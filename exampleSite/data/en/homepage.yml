@@ -166,7 +166,7 @@ testimonial:
   title: TESTIMONIALS
   testimonial_slider:
   - name: Uğur Eker
-    image: images/clients/b4.jpg
+    image: "/images/b4.jpg"
     designation: 'CEO @ Eker Bilişim '
     content: Windows 98 ve Ubuntu ile ufak yaşlarda bilgisayarı sadece klavye kullanarak
       kullanmaya mecbur kalarak kendi çözümlerimi buldum ve kendimi geliştirdim, CEH9
