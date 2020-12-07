@@ -199,5 +199,5 @@ funfacts:
     image: images/icons/coffee.png
     count: "150"
 contact:
-  enable: true
+  enable: false
   title: ILETIŞIM
