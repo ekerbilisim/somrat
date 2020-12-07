@@ -19,8 +19,8 @@ hero:
 fullscreen_nav:
   enable: true
   bg_image: images/backgrounds/full-nav-bg.jpg
-  first_name: Uğur
-  last_name: EKER
+  first_name: EKER
+  last_name: BILISIM
 about:
   enable: true
   image: images/backgrounds/portrait.jpg
